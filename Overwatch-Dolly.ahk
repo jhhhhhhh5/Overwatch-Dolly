@@ -3,13 +3,13 @@ Macro1:
 Send, {1}
 Sleep, 120
 Send, {2}
-Sleep, 120
+Sleep, 500
 Send, {3}
-Sleep, 120
+Sleep, 550
 Send, {4}
-Sleep, 120
+Sleep, 500
 Send, {5}
-Sleep, 120
+Sleep, 350
 Send, {6}
 Sleep, 120
 Send, {7}
